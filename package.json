@@ -1,0 +1,27 @@
+{
+  "name": "node-bluebird-additions",
+  "version": "0.0.1",
+  "description": "node-bluebird-additions =======================",
+  "main": "additions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tndev/node-bluebird-additions.git"
+  },
+  "keywords": [
+    "bluebird",
+    "promise",
+    "iterate"
+  ],
+  "author": "Till Niese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tndev/node-bluebird-additions/issues"
+  },
+  "homepage": "https://github.com/tndev/node-bluebird-additions",
+  "dependencies": {
+    "bluebird": "^1.2.3"
+  }
+}
