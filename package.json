@@ -1,7 +1,7 @@
 {
-  "name": "node-bluebird-additions",
-  "version": "0.0.1",
-  "description": "node-bluebird-additions =======================",
+  "name": "bluebird-additions",
+  "version": "0.0.2",
+  "description": "bluebird-additions",
   "main": "additions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
